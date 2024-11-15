@@ -6,4 +6,5 @@ My First Repository
 - 06 Task Performance 1 - Application Development and Emerging Technologies
 
 
-**Joshua Ramirez favorite movie is Alchemy of Souls**
+**Joshua Ramirez favorite movie is Alchemy of Souls** 
+(71e9sdH6hmL._AC_UF350,350_QL80_)
