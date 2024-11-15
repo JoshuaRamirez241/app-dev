@@ -7,4 +7,4 @@ My First Repository
 
 
 **Joshua Ramirez favorite movie is Alchemy of Souls** 
-(71e9sdH6hmL._AC_UF350,350_QL80_)
+[The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
